@@ -1,7 +1,7 @@
 import React from 'react'
 import './Main.css'
-import { animals } from '../../data.js'
-import Animal from '../Animal/Animal.js'
+import { animals } from '../../data'
+import Animal from '../Animal/Animal'
 
 import background from '../../../src/background.png'
 
